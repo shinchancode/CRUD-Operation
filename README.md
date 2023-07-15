@@ -1,7 +1,6 @@
 ## JAVA ASSIGNMENT - 3
 # CRUD OPERATION
-Build a java based application to allow user to create, read, update and delete below 
-mentioned Entities.
+Build a java based application to allow user to create, read, update and delete Entities using SpringBoot:
 1. Student
 2. Teacher
 3. Subject
